@@ -1,5 +1,5 @@
 # dio-disafio-github-primeiro-repositorio
-O que é Git?
+## O que é Git?
 O Git é um software para gerar projetos onde vários desenvolvedores podem trabalhar ao mesmo tempo. Desenvolvido em 2005 por Linus Torvalds precisamente para a criação do Kernel do Linux, hoje ele é utilizado para elaborar qualquer site, software ou código de forma rápida e inteligente.
 
 Mas o recurso que faz essa ferramenta ser tão útil e prática é o sistema de controle de alterações. Isso quer dizer que cada vez que alguém muda o código é gerada uma nova versão para o projeto. Assim, não se corre o risco de perder nenhuma informação.
