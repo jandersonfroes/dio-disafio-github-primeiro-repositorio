@@ -15,29 +15,7 @@ Inclusive, o GitHub é uma das maiores plataformas online de trabalho colaborati
 
 O trabalho predominante na plataforma são softwares em geral, porém o GitHub está se diversificando e atraindo também outras equipes que querem se beneficiar com o sistema de controle de versão.
 
-## Como criar um repositório GitHub
-O GitHub é um espaço pensando para profissionais que trabalham com desenvolvimento. Veja como criar seu repositório nele!
-Criando um repositório no GitHub
-Após se cadastrar e fazer login em sua conta no GitHub, procure pela opção “New repository”. Ela pode ser encontrada na barra lateral esquerda do site ou no ícone “+” que fica na barra superior.
 
-Na tela seguinte, você definirá as principais informações sobre o seu novo repositório GitHub. A primeira delas será o seu nome, que será utilizado por quem quiser acessar os seus arquivos na plataforma. Por isso, o ideal é que ele seja curto, objetivo e fácil de ser lembrado. O nome final não pode conter espaços e caracteres especiais, que são substituídos automaticamente caso utilizados.
-
-Logo abaixo é possível inserir uma descrição para seu novo repositório, o que ajudará tanto na sua própria organização quanto a orientar os interessados em visualizar seus projetos.
-
-Prosseguindo, será preciso escolher se o repositório será público ou privado. Os repositórios públicos podem ser visualizados por qualquer pessoa, mas o proprietário pode definir quem realizará os commits. Já os privados podem ter seu acesso restrito apenas para as pessoas autorizadas pelo administrador.
-
-Conectando o Git ao Github
-Após a criação, a tela seguinte fornecerá as informações necessárias para configurar o repositório criado no GitHub com o seu projeto local. No prompt de comando, digite os seguintes comandos para realizar esse processo:
-
-$ git remote add origin "https://github.com/username/repositorio.git"
-$ git push -u origin master
-Ao inserir o segundo comando, uma caixa de diálogo do GitHub se abrirá para que seja feita a autenticação, com o nome de usuário e a senha cadastradas na plataforma.
-
-Finalmente, acesse o seu repositório no GitHub para encontrar por lá os mesmos arquivos que você tem em sua pasta local gerenciada pelo Git. Mais fácil do que você imaginava, não é mesmo?
-
-Saber como criar um repositório GitHub é praticamente um requisito para quem pretende trabalhar com o desenvolvimento web, especialmente para projetos em equipe. Além disso, a plataforma serve como uma verdadeira rede social para profissionais e entusiastas da área, o que certamente pode contribuir bastante para o desenvolvimento de suas habilidades.
-
-Agora que você já sabe o que é o Git, vamos ao próximo passo.
 ## link acesso
 ## [Sintaxe git/github](https://github.com/jandersonfroes/dio-disafio-github-primeiro-repositorio.git)
 
