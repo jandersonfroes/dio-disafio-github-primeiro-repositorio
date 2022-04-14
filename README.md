@@ -8,6 +8,13 @@ No Git, também não há problema com códigos sobrescritos e perda de informaç
 
 Embora a maior vantagem do Git ser o trabalho em equipe em um mesmo código, muitos programadores utilizam-no para projetos individuais devido à quantidade de recursos que ele oferece.
 
+## O que é GitHub?
+O GitHub é uma rede social de desenvolvedores. A primeira parte do nome, “Git”, é por causa da utilização do sistema de controle de versão e a segunda parte, “Hub”, tem a ver com a conexão entre profissionais de programação de qualquer lugar do mundo.
+
+Inclusive, o GitHub é uma das maiores plataformas online de trabalho colaborativo do mundo. Aqui os usuários compartilham seus projetos, e pessoas de qualquer lugar do mundo podem trabalhar paralelamente neles.
+
+O trabalho predominante na plataforma são softwares em geral, porém o GitHub está se diversificando e atraindo também outras equipes que querem se beneficiar com o sistema de controle de versão.
+
 Agora que você já sabe o que é o Git, vamos ao próximo passo.
 ## link acesso
 [sintaxe git e github](https://github.com/jandersonfroes/dio-disafio-github-primeiro-repositorio.git)
