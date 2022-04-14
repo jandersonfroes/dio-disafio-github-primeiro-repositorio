@@ -10,4 +10,4 @@ Embora a maior vantagem do Git ser o trabalho em equipe em um mesmo código, mui
 
 Agora que você já sabe o que é o Git, vamos ao próximo passo.
 ## link acesso
-[sintaxe markdown](https://github.com/jandersonfroes/dio-disafio-github-primeiro-repositorio.git)
+[sintaxe git e github](https://github.com/jandersonfroes/dio-disafio-github-primeiro-repositorio.git)
