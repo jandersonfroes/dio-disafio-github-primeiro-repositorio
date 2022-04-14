@@ -17,4 +17,5 @@ O trabalho predominante na plataforma são softwares em geral, porém o GitHub e
 
 Agora que você já sabe o que é o Git, vamos ao próximo passo.
 ## link acesso
-[sintaxe git/github](https://github.com/jandersonfroes/dio-disafio-github-primeiro-repositorio.git)(https://www.youtube.com/watch?v=E6fK7-O8Ow0&t=38s)
+[sintaxe git/github](https://github.com/jandersonfroes/dio-disafio-github-primeiro-repositorio.git)
+[video git/github](https://www.youtube.com/watch?v=E6fK7-O8Ow0&t=38s)
