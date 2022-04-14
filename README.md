@@ -29,7 +29,7 @@ Prosseguindo, será preciso escolher se o repositório será público ou privado
 Conectando o Git ao Github
 Após a criação, a tela seguinte fornecerá as informações necessárias para configurar o repositório criado no GitHub com o seu projeto local. No prompt de comando, digite os seguintes comandos para realizar esse processo:
 
-$ git remote add origin (https://github.com/username/repositorio.git)
+$ git remote add origin "https://github.com/username/repositorio.git"
 $ git push -u origin master
 Ao inserir o segundo comando, uma caixa de diálogo do GitHub se abrirá para que seja feita a autenticação, com o nome de usuário e a senha cadastradas na plataforma.
 
